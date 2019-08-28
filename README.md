@@ -1,4 +1,4 @@
-1# Bike-Trips-Data-Analysis
+# Bike-Trips-Data-Analysis
 
 This project uses the 2017 bike trips data from [Capital Bike Share](https://www.capitalbikeshare.com/system-data)
 
